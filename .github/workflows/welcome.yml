@@ -1,0 +1,4 @@
+name: Warmly welcome!
+on:
+  pull_request:
+    types: [opened]
