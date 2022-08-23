@@ -2,3 +2,7 @@ name: Warmly welcome!
 on:
   pull_request:
     types: [opened]
+jobs:
+  build:
+    name: Warmly welcome!
+    runs-on: ubuntu-latest
